@@ -3,7 +3,7 @@
 document.write("Hello, World");
 
 // uyari mesaji (alert) ile;
-alert("Hello, World");
+//alert("Hello, World");
 
 // console.log ile;
 console.log("Hello, World");
